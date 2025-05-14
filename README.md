@@ -55,7 +55,7 @@ Dashboard bisnis dikembangkan menggunakan Tableau untuk memvisualisasikan insigh
 
 ![Dashboard](patuh_istizhar-dashboard.png)
 
-Dashboard bisa diakses [disini](https://public.tableau.com/app/profile/patuh/viz/Book2_17472249319740/Dashboard1)
+Dashboard bisa diakses di [sini](https://public.tableau.com/app/profile/patuh/viz/Book2_17472249319740/Dashboard1)
 
 ## Menjalankan Sistem Machine Learning
 
@@ -71,7 +71,7 @@ Untuk menjalankan prototype:
 streamlit run app.py
 ```
 
-[Link Prototype akan ditambahkan di sini]
+Aplikasi bisa di akses di [sini](https://dashboard-masalah-pendidikan-v8m8l42gvo2qdf3mrh7jfu.streamlit.app/)
 
 ## Conclusion
 

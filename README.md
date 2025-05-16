@@ -6,9 +6,10 @@ Institusi pendidikan menghadapi tantangan signifikan dalam mengelola tingkat dro
 
 ### Permasalahan Bisnis
 
-1. **Identifikasi Faktor Penyebab Dropout**: Perlu pemahaman mendalam tentang faktor-faktor yang berkontribusi terhadap keputusan mahasiswa untuk dropout, termasuk aspek akademik, finansial, dan personal.
-2. **Pengembangan Strategi Pencegahan**: Berdasarkan faktor-faktor yang teridentifikasi, institusi perlu mengembangkan program intervensi yang tepat untuk mengurangi tingkat dropout.
-3. **Pengembangan Model Prediksi Dropout**: Diperlukan sistem prediksi yang dapat mengidentifikasi mahasiswa berisiko tinggi dropout secara dini, memungkinkan intervensi yang lebih proaktif.
+1. **Tingkat Dropout Mahasiswa yang Signifikan**: Angka dropout mahasiswa di Institusi mencapai **32.12%** dari total mahasiswa terdaftar. Tingkat ini menjadi perhatian serius karena berdampak negatif pada reputasi Institusi, keberlanjutan finansial, dan hilangnya potensi sumber daya manusia.
+2. **Kesulitan dalam Mengidentifikasi Faktor Risiko Dropout secara Akurat**: Institusi belum memiliki pemahaman mendalam dan terukur mengenai faktor-faktor kunci (akademik, finansial, demografis, personal) yang secara signifikan berkontribusi terhadap keputusan mahasiswa untuk tidak melanjutkan studi.
+3. **Ketiadaan Sistem Prediksi Dini untuk Mahasiswa Berisiko Dropout**: Saat ini, belum ada sistem proaktif yang dapat mengidentifikasi mahasiswa dengan probabilitas dropout tinggi sejak awal masa studi, sehingga intervensi seringkali terlambat dan kurang efektif.
+4. **Keterbatasan dalam Monitoring Performa Akademik Mahasiswa secara Efektif dan Terintegrasi**: Proses pemantauan perkembangan akademik mahasiswa yang dapat mengarah pada risiko dropout belum terintegrasi secara optimal untuk mendukung pengambilan keputusan intervensi yang cepat dan tepat.
 
 ### Cakupan Proyek
 

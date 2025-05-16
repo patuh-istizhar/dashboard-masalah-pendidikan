@@ -56,7 +56,7 @@ Dashboard bisnis dikembangkan menggunakan Tableau untuk memvisualisasikan insigh
 
 ![Dashboard](patuh_istizhar-dashboard.png)
 
-Dashboard bisa diakses di [sini](https://public.tableau.com/app/profile/patuh/viz/Book2_17472249319740/Dashboard1)
+Dashboard bisa diakses di [sini](https://public.tableau.com/app/profile/patuh/viz/Book2_17472249319740/Dashboard)
 
 ## Menjalankan Sistem Machine Learning
 
